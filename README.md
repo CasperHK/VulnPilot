@@ -18,7 +18,7 @@ VulnPilot (also known as OpenVulner) is an open-source vulnerability management 
 - [Fiber](https://gofiber.io/) (Backend, Go)
 - [GORM](https://gorm.io/docs/index.html) (ORM for Go)
 - [SQLocal](https://sqlocal.dev/) (Local SQL database)
-- [PrimeVue](https://primevue.org/) (UI Components)
+- [Nuxt UI](https://ui.nuxt.com/) (UI Components)
 - [ApexCharts.js](https://apexcharts.com/) (Charts & Data Visualization)
 - [MariaDB](https://mariadb.org/) (Database)
 - [Excelize](https://xuri.me/excelize/) (Excel export)
