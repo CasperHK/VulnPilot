@@ -11,6 +11,7 @@ VulnPilot (also known as OpenVulner) is an open-source vulnerability management 
 - Dashboard and analytics
 - Export reports (Excel, Word)
 - Role-based access control
+- AI vulnerability detection and bug fixing
 
 ## Tech Stack
 
